@@ -1,14 +1,15 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistent"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
+type: "Linear Algebra"
+permalink: https://techtree.iiitd.edu.in/viewDescription/filename?=MTH100
 venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+date: 2024-7-01
+location: "Delhi, India"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Conducted weekly one-hour doubt-clearing sessions to explain practice-sheet questions to a
+group of 25 students; evaluated quizzes, mid-semester and end-semester exams; and performed invigilation duties.
 
 Heading 1
 ======
