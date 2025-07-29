@@ -3,7 +3,7 @@ title: "Teaching Assistent"
 collection: teaching
 type: "Linear Algebra"
 permalink: https://techtree.iiitd.edu.in/viewDescription/filename?=MTH100
-venue: "University 1, Department"
+venue: "IIIT Delhi, Mathematics Department"
 date: 2024-7-01
 location: "Delhi, India"
 ---
